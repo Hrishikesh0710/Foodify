@@ -15,17 +15,14 @@ This project is a Swift-based app designed to facilitate food ordering, includin
 The app is built using the SwiftUI framework and follows the MVVM (Model-View-ViewModel) design pattern:
 - **Models:** Contains data structures and logic for handling business operations.
 - **Views:** Includes SwiftUI components responsible for the user interface.
-- **ViewModels:** (To be confirmed) Bridges the gap between the views and models, managing app logic and state.
+- **ViewModels:** Bridges the gap between the views and models, managing app logic and state.
 
 ## External Libraries or APIs
 - Currently, no external libraries or APIs have been integrated.
 - Assumes local or mock data is used for restaurant listings and menu items.
 
 ## Incomplete Features or Assumptions
-- **Payment Integration:** The checkout functionality currently does not support external payment gateways.
-- **Backend Support:** Assumes mock or hardcoded data as a placeholder for backend integration.
-- **User Authentication:** Not implemented in the current version.
-- **Error Handling:** Basic error handling is in place but requires enhancements.
+- The elements of the drawer are not functional and are just for representation purposes.
 
 ## Recording
-A walkthrough recording of the app functionality can be found [here](#).
+A walkthrough recording of the app functionality can be found [here](https://drive.google.com/drive/folders/16q6SksLZQW09oZiuiAom_lYNbq4lR7qR).
